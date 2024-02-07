@@ -1,4 +1,5 @@
-[
+{
+  "servers" : [
   {
     "name": "d1.dyntech.io:31000",
     "host": "d1.dyntech.io",
@@ -48,3 +49,4 @@
     "proto": "webSocket"
   }
 ]
+}
