@@ -1,0 +1,50 @@
+[
+  {
+    "name": "d1.dyntech.io:31000",
+    "host": "d1.dyntech.io",
+    "port": 31000,
+    "proto": "tcp"
+  },
+  {
+    "name": "d1.dyntech.io:32100",
+    "host": "d1.dyntech.io",
+    "port": 32100,
+    "proto": "webSocket"
+  },
+  {
+    "name": "d1.dyntech.io:33000",
+    "host": "d1.dyntech.io",
+    "port": 33000,
+    "proto": "tcp"
+  },
+  {
+    "name": "d1.dyntech.io:32140",
+    "host": "d1.dyntech.io",
+    "port": 32140,
+    "proto": "webSocket"
+  },
+  {
+    "name": "d1.dyntech.io:32340",
+    "host": "d1.dyntech.io",
+    "port": 32340,
+    "proto": "webSocket"
+  },
+  {
+    "name": "d1.dyntech.io:32040",
+    "host": "d1.dyntech.io",
+    "port": 32040,
+    "proto": "tcp"
+  },
+  {
+    "name": "d1.dyntech.io:39000",
+    "host": "d1.dyntech.io",
+    "port": 39000,
+    "proto": "tcp"
+  },
+  {
+    "name": "d1.dyntech.io:35100",
+    "host": "d1.dyntech.io",
+    "port": 35100,
+    "proto": "webSocket"
+  }
+]
