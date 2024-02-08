@@ -4,7 +4,7 @@
     "name": "Demo",
     "host": "d1.dyntech.io",
     "portTcp": 35000,
-    "portWs": 35100,  
+    "portWs": 35100  
   },
   {
     "name": "EfiInstances",
@@ -41,12 +41,12 @@
     "host": "d1.dyntech.io",
     "portTcp": 32400,
     "portWs": 32500
-  }
+  },
   {
     "name": "Evalect",
     "host": "d1.dyntech.io",
     "portTcp": 33020,
-    "portWs": 33120,
+    "portWs": 33120
   },
   {
     "name": "InternalDemo",
