@@ -1,13 +1,13 @@
 {
   "servers" : [
   {
-    "name": "d1.dyntech.io:32140",
+    "name": "IOS Server ws",
     "host": "d1.dyntech.io",
     "port": 32140,
     "proto": "webSocket"
   },
   {
-    "name": "d1.dyntech.io:32040",
+    "name": "IOS Server tcp",
     "host": "d1.dyntech.io",
     "port": 32040,
     "proto": "tcp"
