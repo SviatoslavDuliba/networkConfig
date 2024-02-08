@@ -28,7 +28,7 @@
     "name": "StgmInstance (Real)",
     "host": "d8.dyntech.io",
     "portTcp": 33000,
-    "portWS": 33100
+    "portWs": 33100
   },
   {
     "name": "ContestInstance",
