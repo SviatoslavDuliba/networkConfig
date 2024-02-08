@@ -1,16 +1,70 @@
 {
   "servers" : [
-  {
-    "name": "IOS Server ws",
+    {
+    "name": "Demo",
     "host": "d1.dyntech.io",
-    "port": 32140,
-    "proto": "webSocket"
+    "portTcp": 35000,
+    "portWs": 35100,  
   },
   {
-    "name": "IOS Server tcp",
+    "name": "EfiInstances",
     "host": "d1.dyntech.io",
-    "port": 32040,
-    "proto": "tcp"
+    "portTcp": 32000,
+    "portWs": 32100
+  },
+  {
+    "name": "FDMInstance",
+    "host": "d1.dyntech.io",
+    "portTcp": 32020,
+    "portWs": 32120
+  },
+  {
+    "name": "StgmInternal",
+    "host": "d1.dyntech.io",
+    "portTcp": 32240,
+    "portWs": 32340
+  },
+  {
+    "name": "StgmInstance (Real)",
+    "host": "d8.dyntech.io",
+    "portTcp": 33000,
+    "portWS": 33100
+  },
+  {
+    "name": "ContestInstance",
+    "host": "cnt.dyntech.io",
+    "portTcp": 32240,
+    "portWs": 32340
+  },
+  {
+    "name": "USDTOCH",
+    "host": "d1.dyntech.io",
+    "portTcp": 32400,
+    "portWs": 32500
+  }
+  {
+    "name": "Evalect",
+    "host": "d1.dyntech.io",
+    "portTcp": 33020,
+    "portWs": 33120,
+  },
+  {
+    "name": "InternalDemo",
+    "host": "d6.dyntech.io",
+    "portTcp": 32000,
+    "portWs": 32100
+  },
+  {
+    "name": "IOS Server",
+    "host": "d1.dyntech.io",
+    "portTcp": 32040,
+    "portWs": 32140
+  },
+  {
+    "name": "MessagePack",
+    "host": "d1.dyntech.io",
+    "portTcp": 39000,
+    "portWs": 39100
   }
 ]
 }
