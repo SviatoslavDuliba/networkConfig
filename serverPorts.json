@@ -68,7 +68,7 @@
     "host": "d1.dyntech.io",
     "portTcp": 32040,
     "portWs": 32140,
-    "historyApi": "https://spa.dyntech.io:35322w"
+    "historyApi": "https://spa.dyntech.io:35322"
   },
   {
     "name": "MessagePack",
