@@ -4,67 +4,78 @@
     "name": "Demo",
     "host": "d1.dyntech.io",
     "portTcp": 35000,
-    "portWs": 35100  
+    "portWs": 35100,
+    "historyApi": "https://spa.dyntech.io:35302"
   },
   {
     "name": "EfiInstances",
     "host": "d1.dyntech.io",
     "portTcp": 32000,
-    "portWs": 32100
+    "portWs": 32100,
+    "historyApi": "https://spa.dyntech.io:32302"
   },
   {
     "name": "FDMInstance",
     "host": "d1.dyntech.io",
     "portTcp": 32020,
-    "portWs": 32120
+    "portWs": 32120,
+    "historyApi": "https://spa.dyntech.io:32322"
   },
   {
     "name": "StgmInternal",
     "host": "d1.dyntech.io",
     "portTcp": 32240,
-    "portWs": 32340
+    "portWs": 32340,
+    "historyApi": "https://spa.dyntech.io:32342"
   },
   {
     "name": "StgmInstance (Real)",
     "host": "d8.dyntech.io",
     "portTcp": 33000,
-    "portWs": 33100
+    "portWs": 33100,
+    "historyApi": "https://spa.dyntech.io:33302"
   },
   {
     "name": "ContestInstance",
     "host": "cnt.dyntech.io",
     "portTcp": 32240,
-    "portWs": 32340
+    "portWs": 32340,
+    "historyApi": ""
   },
   {
     "name": "USDTOCH",
     "host": "d1.dyntech.io",
     "portTcp": 32400,
-    "portWs": 32500
+    "portWs": 32500,
+    "historyApi": "https://spa.dyntech.io:32502"
   },
   {
     "name": "Evalect",
     "host": "d1.dyntech.io",
     "portTcp": 33020,
-    "portWs": 33120
+    "portWs": 33120,
+    "historyApi": "https://spa.dyntech.io:36302"
   },
   {
     "name": "InternalDemo",
     "host": "d6.dyntech.io",
     "portTcp": 32000,
-    "portWs": 32100
+    "portWs": 32100,
+    "historyApi": "https://spa.dyntech.io:32702"
   },
   {
     "name": "IOS Server",
     "host": "d1.dyntech.io",
     "portTcp": 32040,
-    "portWs": 32140
+    "portWs": 32140,
+    "historyApi": "https://spa.dyntech.io:35322w"
   },
   {
     "name": "MessagePack",
     "host": "d1.dyntech.io",
     "portTcp": 39000,
-    "portWs": 39100
+    "portWs": 39100,
+    "historyApi": ""
   }
 ]
 }
